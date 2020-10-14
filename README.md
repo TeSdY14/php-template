@@ -7,7 +7,7 @@ Basic Template to start small PHP project
 
 // lancer le serveur php : 
 
-php -S localhost:8080 
+> php -S localhost:8080 
 
 ENJOY ! (ou configurer apache)
 
