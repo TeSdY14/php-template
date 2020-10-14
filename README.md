@@ -1,11 +1,11 @@
 # php-template
-Basic Template to start small PHP project
+## Basic Template to start small PHP project
 
-// Bootstrap 4.5.3
+- Bootstrap 4.5.3
 
-// jquery-3.5.1
+- jquery-3.5.1
 
-// lancer le serveur php (ou configurer apache) : 
+- lancer le serveur php (ou configurer apache) : 
 
 > php -S localhost:8080 
 
