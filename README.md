@@ -5,12 +5,12 @@ Basic Template to start small PHP project
 
 // jquery-3.5.1
 
-// lancer le serveur php : 
+// lancer le serveur php (ou configurer apache) : 
 
 > php -S localhost:8080 
 
-ENJOY ! (ou configurer apache)
+ENJOY ! 
 
 
 
-http://http://localhost:8080/
+> http://http://localhost:8080/
