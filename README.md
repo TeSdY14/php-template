@@ -5,7 +5,7 @@
 
 - jquery-3.5.1
 
-- lancer le serveur php (ou configurer apache) : 
+<ins>Ready to go </ins>: Lancer le serveur php (ou configurer apache) : 
 
 > php -S localhost:8080 
 
